@@ -57,6 +57,8 @@ const Search = () => {
         border-[1px]
         w-full
         md:w-auto
+        mt-2
+        mb-2
         py-2
         rounded-full
         shadow-sm
