@@ -27,6 +27,7 @@ const Navbar: React.FC<NavbarProps> = ({ currentUser }) => {
             flex-row
             flex-wrap
             items-center
+            justify-center
             sm:justify-center
             md:justify-between
             lg:justify-between
