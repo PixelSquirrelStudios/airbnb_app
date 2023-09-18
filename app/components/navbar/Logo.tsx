@@ -13,7 +13,7 @@ const Logo = () => {
       className='sm:flex sm:justify-center sm:items-center cursor-pointer w-auto h-auto mr-20'
       width='100'
       height='100'
-      src='/images/PlanetHubsLogo.svg'
+      src='/images/PlanetHubsMainLogo.svg'
       priority
     />
   );
